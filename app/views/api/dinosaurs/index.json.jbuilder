@@ -1,0 +1,1 @@
+json.array! @dinosaur, partial: "dinosaur", as: :dinosaur
